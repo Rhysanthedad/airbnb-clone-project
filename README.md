@@ -62,6 +62,18 @@ Secondary Text: Source Sans Pro, Bold (600), 94px
 -Brand recognition
 -Accessibillity
 
+
+**Project Roles and Responsibilities**
+Project Manager: Oversees project planning, timelines and deliverables and coordinates communication abetween all team members.
+Product Owner: Defines the project vision aand proiorities. Also maintains the product backlog and ensures features align with user needs.
+Frontend Developers: Builds the user interface, implement responsive design, manages state and ensure seamless interaction between components and APIs.
+Backend Developers: Develop[ server-side logic, APIs and database architecture. Handles data models, authentication and integration with front end endpoints.
+UI/UX Dessigners: Create mockups, prototypes and design systems. Makes sure the interface is visuallly appealing and intuitive.
+QA Testers: Test application functionality, responsiveness and performance. Identify bugs and document issues before deployment.
+DevOps Engineers: Set up CI/CD pipelines, manages deployment and monitor system reliability
+Scrum Master: Facilitates agile ceremonies and ensure smooth team workflow.
+
+
 **UI Component Patterns**
 **Navbar**
 Elements:
@@ -83,18 +95,6 @@ Elements:
 -Company information
 -Social media links
 -Copyright information
-
----
-
-**Project Roles and Responsibilities**
-Project Manager: Oversees project planning, timelines and deliverables and coordinates communication abetween all team members.
-Product Owner: Defines the project vision aand proiorities. Also maintains the product backlog and ensures features align with user needs.
-Frontend Developers: Builds the user interface, implement responsive design, manages state and ensure seamless interaction between components and APIs.
-Backend Developers: Develop[ server-side logic, APIs and database architecture. Handles data models, authentication and integration with front end endpoints.
-UI/UX Dessigners: Create mockups, prototypes and design systems. Makes sure the interface is visuallly appealing and intuitive.
-QA Testers: Test application functionality, responsiveness and performance. Identify bugs and document issues before deployment.
-DevOps Engineers: Set up CI/CD pipelines, manages deployment and monitor system reliability
-Scrum Master: Facilitates agile ceremonies and ensure smooth team workflow.
 
 
 
